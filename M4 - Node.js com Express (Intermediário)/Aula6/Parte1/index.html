@@ -1,0 +1,33 @@
+
+<html lang="en">
+
+<body>
+    <h1>Cadastro de Veículos!</h1>
+    <hr><br>
+    
+    <form enctype="multipart/form-data" action="/cadastrar-veiculos" method="post">
+        <label for="modelo">Modelo:</label>
+        <input type="text" name="modelo">
+        <br><br>
+
+        <label for="marca">Marca:</label>
+        <input type="text" name="marca">
+        <br><br>
+
+        <label for="km">Kms:</label>
+        <input type="number" name="km">
+        <br><br>
+
+        <label for="ano">Ano:</label>
+        <input type="number" name="ano">
+        <br><br>
+
+        <label for="foto">Foto:</label>
+        <input type="file" name="foto" multiple>
+        <br><br>
+        
+        <hr>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>

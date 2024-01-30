@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem - Airgun</title>
+</head>
+<body>
+    <h1>Listagem de produtos - Airgun</h1>
+    <br>
+    <p>Selecione uma das opções de filtro abaixo:</p>
+
+    <form action="listagemProdutos" method="post">
+        <input type="radio" name="filtro" id="semFiltro" value="Sem filtro" onclick="desabilitarConteudo()">
+        <label for="semFiltro">Sem filtro</label>
+        <br>
+        <input type="radio" name="filtro" id="idUser" value="ID do usuário" onclick="habilitarConteudo()">
+        <label for="idUser">ID do usuário</label>
+        <br>
+        <input type="radio" name="filtro" id="categoriaProduto" value="Categoria do produto" onclick="habilitarConteudo()">
+        <label for="categoriaProduto">Categoria do produto</label>
+        <br>
+        <input type="text" name="conteudo" id="conteudo" disabled>
+        <label for="conteudo">Conteúdo do filtro</label>
+        <br><br>
+        <button type="submit">Listar Produtos</button>
+    </form>
+
+    <script>
+        function habilitarConteudo() {
+            document.getElementById("conteudo").disabled = false;
+        }
+
+        function desabilitarConteudo() {
+            document.getElementById("conteudo").disabled = true;
+        }
+    </script>
+</body>
+</html>
