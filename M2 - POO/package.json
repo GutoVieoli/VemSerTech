@@ -1,0 +1,18 @@
+{
+  "name": "aula-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.6",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start": "npx ts-node src/Grupo/Index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

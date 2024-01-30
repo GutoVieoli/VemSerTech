@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "Igor Manuel Ruan Pires",
+    "idade": 58,
+    "cpf": "186.679.170-28",
+    "rg": "48.305.350-8",
+    "sexo": "Masculino",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "emprestimo": {
+      "valorTotal": 8239.0,
+      "valorRequerido": 7415.1,
+      "valorParcela": 117.7,
+      "numeroParcelas": 70
+    }
+  },
+  {
+    "nome": "Paulo Levi Nascimento",
+    "idade": 25,
+    "cpf": "291.100.326-81",
+    "rg": "12.727.818-7",
+    "sexo": "Masculino",
+    "cidade": "São Leopoldo",
+    "estado": "RS",
+    "emprestimo": {
+      "valorTotal": 4956.0,
+      "valorRequerido": 4460.4,
+      "valorParcela": 141.9,
+      "numeroParcelas": 35
+    }
+  },
+  {
+    "nome": "Brenda Caroline Elza Jesus",
+    "idade": 45,
+    "cpf": "691.839.618-87",
+    "rg": "46.253.866-7",
+    "sexo": "Feminino",
+    "cidade": "Timon",
+    "estado": "MA",
+    "emprestimo": {
+      "valorTotal": 2406.0,
+      "valorRequerido": 2165.4,
+      "valorParcela": 481.2,
+      "numeroParcelas": 5
+    }
+  },
+  {
+    "nome": "Murilo Guilherme da Costa",
+    "idade": 17,
+    "cpf": "222.676.510-76",
+    "rg": "30.547.315-3",
+    "sexo": "Masculino",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "emprestimo": {
+      "valorTotal": 4115.0,
+      "valorRequerido": 3703.5,
+      "valorParcela": 146.96,
+      "numeroParcelas": 28
+    }
+  },
+  {
+    "nome": "Cecília Rosa Farias",
+    "idade": 73,
+    "cpf": "401.948.327-24",
+    "rg": "14.486.668-7",
+    "sexo": "Feminino",
+    "cidade": "Macapá",
+    "estado": "AP",
+    "emprestimo": {
+      "valorTotal": 6324.0,
+      "valorRequerido": 6491.6,
+      "valorParcela": 486.46,
+      "numeroParcelas": 13
+    }
+  },
+  {
+    "nome": "Sebastião Marcelo Benedito Cardoso",
+    "idade": 66,
+    "cpf": "315.805.154-01",
+    "rg": "20.315.505-1",
+    "sexo": "Masculino",
+    "cidade": "Pará de Minas",
+    "estado": "MG",
+    "emprestimo": {
+      "valorTotal": 3132.0,
+      "valorRequerido": 2818.8,
+      "valorParcela": 3132.0,
+      "numeroParcelas": 1
+    }
+  },
+  {
+    "nome": "Manuel Miguel Giovanni Gonçalves",
+    "idade": 15,
+    "cpf": "602.448.868-81",
+    "rg": "42.873.177-6",
+    "sexo": "Masculino",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "emprestimo": {
+      "valorTotal": 5696.0,
+      "valorRequerido": 5126.4,
+      "valorParcela": 111.69,
+      "numeroParcelas": 51
+    }
+  },
+  {
+    "nome": "Lúcia Vitória Aragão",
+    "idade": 66,
+    "cpf": "444.381.629-12",
+    "rg": "35.946.473-7",
+    "sexo": "Feminino",
+    "cidade": "Santa Cruz do Capibaribe",
+    "estado": "PE",
+    "emprestimo": {
+      "valorTotal": 9358.0,
+      "valorRequerido": 8422.2,
+      "valorParcela": 102.84,
+      "numeroParcelas": 61
+    }
+  },
+  {
+    "nome": "Nina Beatriz dos Santos",
+    "idade": 25,
+    "cpf": "318.889.708-12",
+    "rg": "42.687.937-5",
+    "sexo": "Feminino",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "emprestimo": {
+      "valorTotal": 9347.0,
+      "valorRequerido": 8412.3,
+      "valorParcela": 186.94,
+      "numeroParcelas": 50
+    }
+  },
+  {
+    "nome": "Emily Mariah Camila Campos",
+    "idade": 32,
+    "cpf": "199.527.870-06",
+    "rg": "13.842.680-6",
+    "sexo": "Feminino",
+    "cidade": "Ponta Grossa",
+    "estado": "PR",
+    "emprestimo": {
+      "valorTotal": 2542.0,
+      "valorRequerido": 2287.8,
+      "valorParcela": 181.57,
+      "numeroParcelas": 14
+    }
+  },
+  {
+    "nome": "Igor Thomas Samuel da Luz",
+    "idade": 68,
+    "cpf": "199.665.506-07",
+    "rg": "32.595.889-0",
+    "sexo": "Masculino",
+    "cidade": "Teresina",
+    "estado": "PI",
+    "emprestimo": {
+      "valorTotal": 9706.0,
+      "valorRequerido": 8735.4,
+      "valorParcela": 173.32,
+      "numeroParcelas": 56
+    }
+  },
+  {
+    "nome": "Thales Arthur Lima",
+    "idade": 31,
+    "cpf": "745.533.736-10",
+    "rg": "48.790.341-9",
+    "sexo": "Masculino",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "emprestimo": {
+      "valorTotal": 3444.0,
+      "valorRequerido": 3499.6,
+      "valorParcela": 382.67,
+      "numeroParcelas": 9
+    }
+  },
+  {
+    "nome": "Gabrielly Fátima Fernanda da Cruz",
+    "idade": 67,
+    "cpf": "682.809.899-43",
+    "rg": "47.196.867-5",
+    "sexo": "Feminino",
+    "cidade": "Maceió",
+    "estado": "AL",
+    "emprestimo": {
+      "valorTotal": 4206.0,
+      "valorRequerido": 3785.4,
+      "valorParcela": 54.62,
+      "numeroParcelas": 77
+    }
+  },
+  {
+    "nome": "Benedito Enrico Monteiro",
+    "idade": 16,
+    "cpf": "769.938.095-91",
+    "rg": "29.028.753-4",
+    "sexo": "Masculino",
+    "cidade": "Lages",
+    "estado": "SC",
+    "emprestimo": {
+      "valorTotal": 6652.0,
+      "valorRequerido": 5986.8,
+      "valorParcela": 81.12,
+      "numeroParcelas": 82
+    }
+  },
+  {
+    "nome": "Mariane Carolina Maria Figueiredo",
+    "idade": 58,
+    "cpf": "833.788.141-01",
+    "rg": "30.985.634-6",
+    "sexo": "Feminino",
+    "cidade": "Altamira",
+    "estado": "PA",
+    "emprestimo": {
+      "valorTotal": 4922.0,
+      "valorRequerido": 4429.8,
+      "valorParcela": 159.77,
+      "numeroParcelas": 31
+    }
+  },
+  {
+    "nome": "Renan Nelson Alves",
+    "idade": 42,
+    "cpf": "556.793.565-03",
+    "rg": "37.971.251-9",
+    "sexo": "Masculino",
+    "cidade": "Diadema",
+    "estado": "SP",
+    "emprestimo": {
+      "valorTotal": 3938.0,
+      "valorRequerido": 3544.2,
+      "valorParcela": 77.22,
+      "numeroParcelas": 50
+    }
+  },
+  {
+    "nome": "Renan Erick Osvaldo Novaes",
+    "idade": 16,
+    "cpf": "454.446.685-72",
+    "rg": "12.986.859-0",
+    "sexo": "Masculino",
+    "cidade": "São Luís",
+    "estado": "MA",
+    "emprestimo": {
+      "valorTotal": 7584.0,
+      "valorRequerido": 6825.6,
+      "valorParcela": 2528.0,
+      "numeroParcelas": 3
+    }
+  },
+  {
+    "nome": "César Thomas Henry Rezende",
+    "idade": 43,
+    "cpf": "400.863.810-59",
+    "rg": "17.919.164-0",
+    "sexo": "Masculino",
+    "cidade": "Uberlândia",
+    "estado": "MG",
+    "emprestimo": {
+      "valorTotal": 1313.0,
+      "valorRequerido": 1181.7,
+      "valorParcela": 101.0,
+      "numeroParcelas": 13
+    }
+  },
+  {
+    "nome": "Yuri César Barros",
+    "idade": 32,
+    "cpf": "187.777.404-91",
+    "rg": "34.047.965-6",
+    "sexo": "Masculino",
+    "cidade": "Natal",
+    "estado": "RN",
+    "emprestimo": {
+      "valorTotal": 6703.0,
+      "valorRequerido": 6032.7,
+      "valorParcela": 216.23,
+      "numeroParcelas": 31
+    }
+  },
+  {
+    "nome": "Bryan Elias Caldeira",
+    "idade": 27,
+    "cpf": "476.833.849-68",
+    "rg": "33.971.832-8",
+    "sexo": "Masculino",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "emprestimo": {
+      "valorTotal": 1512.0,
+      "valorRequerido": 1360.8,
+      "valorParcela": 44.47,
+      "numeroParcelas": 34
+    }
+  }
+]

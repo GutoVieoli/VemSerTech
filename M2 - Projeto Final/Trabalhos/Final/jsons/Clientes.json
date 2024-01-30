@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "angelo",
+    "cpf": "321123",
+    "carteira": "B"
+  },
+  {
+    "nome": "guilherme",
+    "cpf": "123321",
+    "carteira": "A"
+  },
+  {
+    "nome": "zanette",
+    "cpf": "127123182",
+    "carteira": "A"
+  },
+  {
+    "nome": "ccls",
+    "cpf": "cls",
+    "carteira": "SASA"
+  },
+  {
+    "nome": "antonio",
+    "cpf": "32123",
+    "carteira": "A"
+  },
+  {
+    "nome": "guilherme",
+    "cpf": "const filtered = alugueis.filter((alugueis) => {",
+    "carteira": "RETURN ALUGUEIS.GETISATIVO() && (ALUGUEIS.GETVEICULO().GETPLACA() === PLACA || ALUGUEIS.GETCLIENTE().GETCPF() == CPF)"
+  },
+  {
+    "nome": "mateus",
+    "cpf": "8888888",
+    "carteira": "B"
+  }
+]

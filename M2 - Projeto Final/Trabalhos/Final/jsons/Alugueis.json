@@ -1,0 +1,77 @@
+[
+  {
+    "dataAluguel": "2023-11-20T21:42:37.052Z",
+    "ativo": false,
+    "veiculo": {
+      "modelo": "pampa",
+      "tipo": "carro",
+      "placa": "ert",
+      "valorDiaria": 160
+    },
+    "cliente": {
+      "nome": "guilherme",
+      "cpf": "123321",
+      "carteira": "A"
+    }
+  },
+  {
+    "dataAluguel": "2023-11-22T02:15:49.526Z",
+    "ativo": false,
+    "veiculo": {
+      "modelo": "twister",
+      "tipo": "moto",
+      "placa": "akq",
+      "valorDiaria": 100
+    },
+    "cliente": {
+      "nome": "Antonio",
+      "cpf": "32123",
+      "carteira": "A"
+    }
+  },
+  {
+    "dataAluguel": "2023-11-22T22:53:09.852Z",
+    "ativo": false,
+    "veiculo": {
+      "modelo": "nissa",
+      "tipo": "carro",
+      "placa": "abcd",
+      "valorDiaria": 200
+    },
+    "cliente": {
+      "nome": "mateus",
+      "cpf": "8888888",
+      "carteira": "B"
+    }
+  },
+  {
+    "dataAluguel": "2023-11-20T22:54:27.855Z",
+    "ativo": false,
+    "veiculo": {
+      "modelo": "nissa",
+      "tipo": "carro",
+      "placa": "abcd",
+      "valorDiaria": 200
+    },
+    "cliente": {
+      "nome": "mateus",
+      "cpf": "8888888",
+      "carteira": "B"
+    }
+  },
+  {
+    "dataAluguel": "2023-11-22T23:57:30.400Z",
+    "ativo": false,
+    "veiculo": {
+      "modelo": "jetta",
+      "tipo": "carro",
+      "placa": "zxc",
+      "valorDiaria": 270
+    },
+    "cliente": {
+      "nome": "angelo",
+      "cpf": "321123",
+      "carteira": "B"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "projeto-individual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node ./src/ProjetoGrupo/Index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
